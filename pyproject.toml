@@ -1,7 +1,7 @@
 [project]
 name = "kyb-brazil-pipeline"
 version = "0.1.0"
-description = "Add your description here"
+description = "Know-Your-Business Pipeline for Brazil."
 readme = "README.md"
 authors = [
     { name = "Daniel Duarte", email = "danielduarte.tech@gmail.com" }

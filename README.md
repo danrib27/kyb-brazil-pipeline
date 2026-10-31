@@ -1,4 +1,4 @@
-# kyb-brazil-pipeline
+# kybr-pipeline
 
 Know-Your-Business pipeline that flags risky government suppliers by
 cross-referencing Brazil’s company registry, public procurement and

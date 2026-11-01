@@ -1,0 +1,5 @@
+requests:
+  base_url: https://portaldatransparencia.gov.br/download-de-dados
+  endpoints: [compras, licitacoes, ceis, cnep]
+  chunk_size: 1MiB  # 1MiB = 1024 * 1024 bytes; 1MB = 1000 * 1000 bytes.
+  tmp_dir: /tmp/kybr_pipeline
